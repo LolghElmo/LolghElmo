@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ghaithomo@gmail.com**
 
-- ⚡ Fun fact **I like cat's!**
+- ⚡ Fun fact **I like cats!**
 
 
 <h3 align="left">Connect with me:</h3>
