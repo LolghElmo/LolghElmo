@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/ghaith mala osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghaith mala osman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13453224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13453224" height="30" width="40" /></a>
 <a href="https://instagram.com/ghaithmala.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghaithmala.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lolgh :p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lolgh :p" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lolghp299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lolgh :p" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lolghelmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lolghelmo" height="30" width="40" /></a>
 </p>
 
