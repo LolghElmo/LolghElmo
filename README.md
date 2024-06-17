@@ -1,6 +1,6 @@
 # Hi, I'm LolghElmo
 
-## A passionate developer from Syria
+## A passionate developer
 
 ![Profile Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHAWc6I8hyh3eyfSi9r-ZEoDtLqwxY_k_nrg&usqp=CAU)
 
