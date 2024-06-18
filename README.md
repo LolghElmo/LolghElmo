@@ -10,6 +10,12 @@
 - 📫 How to reach me: **ghaithomo@gmail.com**
 - ⚡ Fun fact: **I like cats!**
 
+#### How would I describe myself?
+- **Curious Learner:** I'm always eager to explore new technologies and continuously improve my skill set.
+- **Problem Solver:** I love tackling challenging problems and finding innovative solutions.
+- **Team Player:** I thrive in collaborative environments and enjoy working with others to achieve common goals.
+- **Creative Thinker:** I bring a unique perspective to my projects, combining technical skills with creativity.
+
 ---
 
 ### Connect with Me
