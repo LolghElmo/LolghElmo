@@ -11,7 +11,7 @@
 - ⚡ Fun fact: **I like cats!**
 
 ### How would I describe myself?
-- **Curious Learner:** I quickly adapt to new technologies and continuously expand my knowledge.
+- **Fast Learner:** I quickly adapt to new technologies and continuously expand my knowledge.
 - **Problem Solver:** I love tackling challenging problems and finding innovative solutions.
 - **Team Player:** I thrive in collaborative environments and enjoy working with others to achieve common goals.
 - **Creative Thinker:** I bring a unique perspective to my projects, combining technical skills with creativity.
