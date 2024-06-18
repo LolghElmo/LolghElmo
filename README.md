@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm LolghElmo</h1>
-<h3 align="center">A passionate developer from Syria</h3>
+<h3 align="center">A passionate little developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHAWc6I8hyh3eyfSi9r-ZEoDtLqwxY_k_nrg&usqp=CAU">
 
 ### About Me
 
-- 🔭 I’m currently working on **Telegram Bots**
-- 🌱 I’m currently learning **Laravel**
-- 👯 I’m looking to collaborate on **Flutter Projects**
-- 🤝 I’m looking for help with **Web Development**
-- 💬 Ask me about **Flutter**
+- 🔭 I’m currently working on **.NET Framework/.NET Core Applications**
+- 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me: **ghaithomo@gmail.com**
 - ⚡ Fun fact: **I like cats!**
 
